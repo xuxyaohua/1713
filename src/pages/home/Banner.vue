@@ -1,6 +1,6 @@
 <template>
 	<div class = "banner">
-		sdfghj
+		asdbfsadfhjahdjkflhsadjklfhalsdkjfhalsjk
 	</div>
 </template>
 <script >
